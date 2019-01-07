@@ -22,7 +22,7 @@ exports.createPages = ({ actions, graphql }) => {
           }
         }
     `).then(result => {
-        if(results.errors) {
+        if(result.errors) {
             return Promise.reject(result.errors)
         }
 
