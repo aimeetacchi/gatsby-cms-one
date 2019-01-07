@@ -1,7 +1,7 @@
 ---
-path: /blog/my-first-post/
-date: 2019-01-07T14:08:17.573Z
-title: Hello World
+path: "/blog/my-first-post/"
+date: "2019-01-07T14:08:17.573Z"
+title: "Hello World"
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet turpis ut dolor ultricies tincidunt laoreet et ligula. Aenean accumsan imperdiet dui in sodales. Nulla convallis fermentum suscipit. Pellentesque bibendum sapien et leo elementum, quis aliquam ex dictum. Curabitur luctus, mi non euismod mollis, libero nulla rutrum dui, at rhoncus lectus lacus malesuada justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut sagittis enim ac porta efficitur. Maecenas eget tortor nunc. Vivamus interdum est vel magna faucibus condimentum. Cras a congue dolor. Morbi id lorem non elit varius feugiat nec ut tellus. Pellentesque non est nisi. Ut aliquam enim id turpis ultricies accumsan.
 
