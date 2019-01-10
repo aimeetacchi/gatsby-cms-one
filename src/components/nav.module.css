@@ -1,0 +1,17 @@
+nav {
+    background-color: #0f0f0f;
+}
+
+.navList {
+    list-style: none;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navList .navListItem {
+    width: 40%;
+    padding: 1em;
+    text-align: center;
+    background-color: #f1b3b3;
+}

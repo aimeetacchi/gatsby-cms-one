@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    align-items: cetner;
+    margin: 0 auto 12px auto;
+    background-color: #f1f1f1;
+}
+
+.icon {
+    border: 1px dashed green;
+}
+
+.desc {
+    padding: 1em;
+    border: 1px solid red;
+}
